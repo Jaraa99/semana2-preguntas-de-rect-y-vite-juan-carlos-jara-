@@ -1,0 +1,38 @@
+Nombre : Juan Carlos Jara
+Curso: 3 nivel
+Materia: Aplicaciones Móviles
+Tema:  React y Vite
+
+
+
+
+1. ¿Cuál es el propósito principal de React en el desarrollo web?
+ a) Administración de bases de datos
+ b) Manipulación del DOM de manera eficiente
+ c) Gestión de estilo 
+ d) Conexión a servidores remotos
+ 
+ 
+ Respuesta: b) Manipulación del DOM de manera eficiente
+
+
+
+ 2.¿Cuál es la función principal de Vite en el desarrollo web con React?
+ a) Compilar el código React a JavaScript nativo 
+ b) Proporcionar un entorno de desarrollo rápido y eficiente
+ c) Minificar y optimizar los archivos CSS
+ d) Crear bases de datos locales para la aplicación web
+ 
+ 
+Respuesta: b) Proporcionar un entorno de desarrollo rápido y eficiente
+
+
+
+
+3.¿Cómo se inicia un proyecto React con Vite?
+ a) create-react-app my-app }
+ b) npm init react-app my-app
+ c) vite create my-app 
+ d) npm init vite-app my-app
+ 
+ Respuesta: c) vite create my-app
